@@ -1,0 +1,12 @@
+# Pi Hole Blocklist for Tumblr
+# Created by combining different currently existing blocklists and 
+# adding self-found domains
+
+# Entries from https://github.com/crpietschmann/pi-hole-blocklist/blob/main/social-media/blocklist-social-tumblr.txt
+
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 66.media.tumblr.com
+0.0.0.0 media.tumblr.com
+0.0.0.0 action.tumblr.com
+0.0.0.0 68.media.tumblr.com

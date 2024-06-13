@@ -1,6 +1,6 @@
 def read_file_to_list(filepath):
     with open(filepath, 'r') as file:
-        return [line.strip().lower().replace('\t', ' ') for line in file]
+        return [line.strip().lower().replace('\t', ' ').rstrip('^') for line in file]
 
 def check_entries(file1, file2):
     entries = read_file_to_list(file1)
@@ -16,14 +16,15 @@ def check_entries(file1, file2):
 
 def main():
     # The file you want to check in
-    file1 = 'Blocklists/SocialMedia/instagram_test.txt'
+    file1 = 'Blocklists/SocialMedia/test.txt'
     # The file you want to append with missing entries
-    file2 = 'Blocklists/SocialMedia/instagram.txt'
+    file2 = 'Blocklists/SocialMedia/facebook.txt'
 
     missing_entries = check_entries(file1, file2)
 
     for entry in missing_entries:
         print(f"{entry}: Not present in file")
-
+    
+    
 if __name__ == "__main__":
     main()   
