@@ -169,3 +169,14 @@
 0.0.0.0 business.instagram.com
 0.0.0.0 scontent-msp1-1.cdninstagram.com
 0.0.0.0 graph.instagram.com
+
+# Self added domains 
+
+0.0.0.0 gateway.instagram.com
+0.0.0.0 scontent-fra5-1.cdninstagram.com
+0.0.0.0 scontent-fra5-2.cdninstagram.com
+0.0.0.0 scontent-fra3-1.cdninstagram.com
+0.0.0.0 scontent-fra3-2.cdninstagram.com
+0.0.0.0 scontent-dus1-1.cdninstagram.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
+0.0.0.0 scontent-fra3-1.xx.fbcdn.net
