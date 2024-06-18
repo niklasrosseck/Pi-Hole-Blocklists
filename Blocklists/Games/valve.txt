@@ -1,0 +1,18 @@
+# Pi Hole Blocklist for Valve
+# Created by combining different currently existing blocklists and 
+# adding self-found domains
+
+# Entries from https://github.com/sefinek24/Sefinek-Blocklist-Collection/blob/main/blocklists/generated/0.0.0.0/games/all-valve-games.txt
+
+0.0.0.0 counter-strike.net
+0.0.0.0 csgo.com
+0.0.0.0 dayofdefeat.com
+0.0.0.0 dota2.com
+0.0.0.0 half-life.com
+0.0.0.0 hl2.net
+0.0.0.0 left4dead.com
+0.0.0.0 portal2.com
+0.0.0.0 ricochet.com
+0.0.0.0 teamfortress.com
+0.0.0.0 tf2.com
+0.0.0.0 tf2maps.net

@@ -18,7 +18,7 @@ def main():
     # The file you want to check in
     file1 = 'Blocklists/SocialMedia/test.txt'
     # The file you want to append with missing entries
-    file2 = 'Blocklists/SocialMedia/facebook.txt'
+    file2 = 'Blocklists/SocialMedia/reddit.txt'
 
     missing_entries = check_entries(file1, file2)
 
