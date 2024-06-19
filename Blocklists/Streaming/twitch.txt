@@ -168,3 +168,47 @@
 0.0.0.0 www-cdn.jtvnw.net
 0.0.0.0 www.twitch.tv
 0.0.0.0 yichunc.us-west-2.beta.chat-edge.live-video.net
+
+# Self added entries with Sublist3r
+
+0.0.0.0 api-showcase.twitch.com
+0.0.0.0 brand.twitch.com
+0.0.0.0 brand-dev.twitch.com
+0.0.0.0 chef.twitch.com
+0.0.0.0 discuss.dev.twitch.com
+0.0.0.0 kitchentest.dev.twitch.com
+0.0.0.0 staging-discuss.dev.twitch.com
+0.0.0.0 dev-api-showcase.twitch.com
+0.0.0.0 dev-share-showcase.twitch.com
+0.0.0.0 hypechallenge.twitch.com
+0.0.0.0 www.hypechallenge.twitch.com
+0.0.0.0 email.hypechallenge.twitch.com
+0.0.0.0 jira.twitch.com
+0.0.0.0 login.twitch.com
+0.0.0.0 m7g.twitch.com
+0.0.0.0 cdn.m7g.twitch.com
+0.0.0.0 plz.twitch.com
+0.0.0.0 share-showcase.twitch.com
+0.0.0.0 showcase.twitch.com
+0.0.0.0 api.showcase.twitch.com
+0.0.0.0 dev.api.showcase.twitch.com
+0.0.0.0 stg.api.showcase.twitch.com
+0.0.0.0 dev.showcase.twitch.com
+0.0.0.0 go.showcase.twitch.com
+0.0.0.0 dev.go.showcase.twitch.com
+0.0.0.0 stg.go.showcase.twitch.com
+0.0.0.0 share.showcase.twitch.com
+0.0.0.0 dev.share.showcase.twitch.com
+0.0.0.0 stg.share.showcase.twitch.com
+0.0.0.0 stg.showcase.twitch.com
+0.0.0.0 test02.showcase.twitch.com
+0.0.0.0 sso.twitch.com
+0.0.0.0 status.twitch.com
+0.0.0.0 stg-api-showcase.twitch.com
+0.0.0.0 stg-share-showcase.twitch.com
+0.0.0.0 subchallenge.twitch.com
+0.0.0.0 www.subchallenge.twitch.com
+0.0.0.0 email.subchallenge.twitch.com
+0.0.0.0 tt.twitch.com
+0.0.0.0 wiki.twitch.com
+0.0.0.0 xarth.twitch.com

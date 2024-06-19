@@ -16,9 +16,9 @@ def check_entries(file1, file2):
 
 def main():
     # The file you want to check in
-    file1 = 'Blocklists/SocialMedia/test.txt'
+    file1 = 'Subdomains/netflix.com.txt'
     # The file you want to append with missing entries
-    file2 = 'Blocklists/SocialMedia/reddit.txt'
+    file2 = 'Blocklists/Streaming/netflix.txt'
 
     missing_entries = check_entries(file1, file2)
 

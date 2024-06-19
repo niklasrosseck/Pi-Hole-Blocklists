@@ -180,3 +180,38 @@
 0.0.0.0 scontent-dus1-1.cdninstagram.com
 0.0.0.0 edge-mqtt-fallback.facebook.com
 0.0.0.0 scontent-fra3-1.xx.fbcdn.net
+
+# Entries added with Sublist3r 
+
+0.0.0.0 copyright--instagram.com
+0.0.0.0 www.copyright--instagram.com
+0.0.0.0 autodiscover.instagram.com
+0.0.0.0 beta.instagram.com
+0.0.0.0 partners.business.instagram.com
+0.0.0.0 engineering.instagram.com
+0.0.0.0 www.engineering.instagram.com
+0.0.0.0 graphql.instagram.com
+0.0.0.0 intern.instagram.com
+0.0.0.0 latest.instagram.com
+0.0.0.0 secure.latest.instagram.com
+0.0.0.0 m.instagram.com
+0.0.0.0 maps.instagram.com
+0.0.0.0 prod.instagram.com
+0.0.0.0 secure.instagram.com
+0.0.0.0 trunkstable.instagram.com
+0.0.0.0 unknownjapan.instagram.com
+0.0.0.0 upload.instagram.com
+0.0.0.0 mail--instagram.com
+0.0.0.0 www.mail--instagram.com
+0.0.0.0 cpanel.mail--instagram.com
+0.0.0.0 mail.mail--instagram.com
+0.0.0.0 webdisk.mail--instagram.com
+0.0.0.0 webmail.mail--instagram.com
+0.0.0.0 security--instagram.com
+0.0.0.0 www.security--instagram.com
+0.0.0.0 cpanel.security--instagram.com
+0.0.0.0 cpcalendars.security--instagram.com
+0.0.0.0 cpcontacts.security--instagram.com
+0.0.0.0 mail.security--instagram.com
+0.0.0.0 webdisk.security--instagram.com
+0.0.0.0 webmail.security--instagram.com
