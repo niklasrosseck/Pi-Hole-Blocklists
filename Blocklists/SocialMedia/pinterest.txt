@@ -433,3 +433,15 @@
 0.0.0.0 pinimg.com
 0.0.0.0 s-media-cache-ak0.pinimg.com
 0.0.0.0 s-passets-cache-ak0.pinimg.com
+
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 adminapp.pinterest.com
+0.0.0.0 asset.pinterest.com
+0.0.0.0 developers-latest.pinterest.com
+0.0.0.0 www.developers-latest.pinterest.com
+0.0.0.0 pinterest.help.pinterest.com
+0.0.0.0 realtime.pinterest.com
+0.0.0.0 sub.pinterest.com
+0.0.0.0 origin.sub.pinterest.com

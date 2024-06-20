@@ -2,6 +2,7 @@
 
 # Blocklist from Blocklists\SocialMedia\facebook.txt
 
+# entries added with sublist3r
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -905,6 +906,18 @@
 0.0.0.0 artesana.m.facebook.com
 0.0.0.0 arts.facebook.com
 0.0.0.0 as-in.facebook.com
+0.0.0.0 ash-cas01.thefacebook.com
+0.0.0.0 ash-cas02.thefacebook.com
+0.0.0.0 ash-cas03.thefacebook.com
+0.0.0.0 ash-cas04.thefacebook.com
+0.0.0.0 ash-cas05.thefacebook.com
+0.0.0.0 ash-cas06.thefacebook.com
+0.0.0.0 ash-hub01.thefacebook.com
+0.0.0.0 ash-hub02.thefacebook.com
+0.0.0.0 ash-hub03.thefacebook.com
+0.0.0.0 ash-hub04.thefacebook.com
+0.0.0.0 ash-hub05.thefacebook.com
+0.0.0.0 ash-hub06.thefacebook.com
 0.0.0.0 ash-vpn.tfbnw.net
 0.0.0.0 ash1.fbcdn.net
 0.0.0.0 asiainspection.m.facebook.com
@@ -951,6 +964,7 @@
 0.0.0.0 autocentre.m.facebook.com
 0.0.0.0 autodiscover.facebook.com
 0.0.0.0 autodiscover.instagram.com
+0.0.0.0 autodiscover.thefacebook.com
 0.0.0.0 aviatnet.facebook.com
 0.0.0.0 avis-is.m.facebook.com
 0.0.0.0 az-az.facebook.com
@@ -1129,6 +1143,7 @@
 0.0.0.0 check6.facebook.com
 0.0.0.0 checkout.instagram.com
 0.0.0.0 chello.m.facebook.com
+0.0.0.0 china--facebook.com
 0.0.0.0 china-geo-p15.instagram.com
 0.0.0.0 china-geo-p42.instagram.com
 0.0.0.0 china-geo.instagram.com
@@ -1200,6 +1215,7 @@
 0.0.0.0 coupa.m.facebook.com
 0.0.0.0 coverganda.facebook.com
 0.0.0.0 cpan.mirror.facebook.net
+0.0.0.0 cpanel.the--facebook.com
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creativedrive.m.facebook.com
 0.0.0.0 creators.instagram.com
@@ -1274,6 +1290,7 @@
 0.0.0.0 development-training.m.facebook.com
 0.0.0.0 development.facebook.com
 0.0.0.0 devoteam.facebook.com
+0.0.0.0 devvm1958.ftw3.facebook.com
 0.0.0.0 dewey-lfs.vip.facebook.com
 0.0.0.0 dewey.vip.facebook.com
 0.0.0.0 dfw1.tfbnw.net
@@ -1331,6 +1348,7 @@
 0.0.0.0 drconsulta.m.facebook.com
 0.0.0.0 dreamdinners.facebook.com
 0.0.0.0 dreamstream.facebook.com
+0.0.0.0 drmail.thefacebook.com
 0.0.0.0 drogon-dev.c2p.vvv.facebook.com
 0.0.0.0 dtechsystems.facebook.com
 0.0.0.0 du.facebook.com
@@ -2631,6 +2649,7 @@
 0.0.0.0 external.ftpe10-1.fna.fbcdn.net
 0.0.0.0 external.fvit1-1.fna.fbcdn.net
 0.0.0.0 extools.facebook.com
+0.0.0.0 f--facebook.com
 0.0.0.0 f251c051c80-wjmmgzbn1537989870-sonar.xx.fbcdn.net
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
@@ -3057,6 +3076,7 @@
 0.0.0.0 grvty.facebook.com
 0.0.0.0 gsbalumni.facebook.com
 0.0.0.0 gsea.m.facebook.com
+0.0.0.0 gsstore.the--facebook.com
 0.0.0.0 gu-in.facebook.com
 0.0.0.0 gwu.facebook.com
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
@@ -3710,6 +3730,7 @@
 0.0.0.0 lds.m.facebook.com
 0.0.0.0 learningcaregroup.m.facebook.com
 0.0.0.0 leedsccg.facebook.com
+0.0.0.0 legacymail.thefacebook.com
 0.0.0.0 legallogik.m.facebook.com
 0.0.0.0 legalmail.facebook.com
 0.0.0.0 lemans.facebook.com
@@ -3798,6 +3819,7 @@
 0.0.0.0 livetiles.m.facebook.com
 0.0.0.0 lji.facebook.com
 0.0.0.0 lla2.facebook.com
+0.0.0.0 llama-ztp.corp.facebook.com
 0.0.0.0 lm.facebook.com
 0.0.0.0 lntinfotech.facebook.com
 0.0.0.0 lo-la.facebook.com
@@ -3806,6 +3828,8 @@
 0.0.0.0 lodestonewp.m.facebook.com
 0.0.0.0 logger.instagram.com
 0.0.0.0 login.0.facebook.com
+0.0.0.0 login.beta.facebook.com
+0.0.0.0 login.connect.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 longwood.facebook.com
 0.0.0.0 lookaside.facebook.com
@@ -3850,6 +3874,8 @@
 0.0.0.0 mail-np.facebook.com
 0.0.0.0 mail.facebook.com
 0.0.0.0 mail.instagram.com
+0.0.0.0 mail.the--facebook.com
+0.0.0.0 mail.thefacebook.com
 0.0.0.0 mail2000.facebook.com
 0.0.0.0 mailapac.facebook.com
 0.0.0.0 maileast.facebook.com
@@ -4033,6 +4059,7 @@
 0.0.0.0 newdev.facebook.com
 0.0.0.0 newhaven.facebook.com
 0.0.0.0 newjersey.facebook.com
+0.0.0.0 news--facebook.com
 0.0.0.0 newsroom.fb.com
 0.0.0.0 nextvation.facebook.com
 0.0.0.0 nfqasia.facebook.com
@@ -4488,6 +4515,7 @@
 0.0.0.0 reg-e2ee.instagram.com
 0.0.0.0 regent.facebook.com
 0.0.0.0 register.facebook.com
+0.0.0.0 register.new.facebook.com
 0.0.0.0 remy-cointreau.facebook.com
 0.0.0.0 reply.facebook.com
 0.0.0.0 research.facebook.com
@@ -4560,6 +4588,18 @@
 0.0.0.0 sanc.m.facebook.com
 0.0.0.0 savealot.m.facebook.com
 0.0.0.0 savethechildren.m.facebook.com
+0.0.0.0 sc-cas01.thefacebook.com
+0.0.0.0 sc-cas02.thefacebook.com
+0.0.0.0 sc-cas03.thefacebook.com
+0.0.0.0 sc-cas04.thefacebook.com
+0.0.0.0 sc-cas05.thefacebook.com
+0.0.0.0 sc-cas06.thefacebook.com
+0.0.0.0 sc-hub01.thefacebook.com
+0.0.0.0 sc-hub02.thefacebook.com
+0.0.0.0 sc-hub03.thefacebook.com
+0.0.0.0 sc-hub04.thefacebook.com
+0.0.0.0 sc-hub05.thefacebook.com
+0.0.0.0 sc-hub06.thefacebook.com
 0.0.0.0 sc-it.facebook.com
 0.0.0.0 scarolina.facebook.com
 0.0.0.0 scgraph.facebook.com
@@ -4888,6 +4928,7 @@
 0.0.0.0 secure-edge-latest-shv-01-tir3.facebook.com
 0.0.0.0 secure-edge-latest-shv-02-gru1.facebook.com
 0.0.0.0 secure-edge-latest-shv-02-tir3.facebook.com
+0.0.0.0 secure-media-sf2p.facebook.com
 0.0.0.0 secure-media-snc1.fbcdn.net
 0.0.0.0 secure-media.fbcdn.net
 0.0.0.0 secure-profile.facebook.com
@@ -4944,6 +4985,7 @@
 0.0.0.0 smilepill.m.facebook.com
 0.0.0.0 smith.facebook.com
 0.0.0.0 smsu.facebook.com
+0.0.0.0 smtpin.mx.facebook.com
 0.0.0.0 smtpin.vvv.facebook.com
 0.0.0.0 smukfest.m.facebook.com
 0.0.0.0 sn-zw.facebook.com
@@ -5156,6 +5198,8 @@
 0.0.0.0 tg-tj.facebook.com
 0.0.0.0 th-3.fbsbx.com
 0.0.0.0 th-th.facebook.com
+0.0.0.0 the--facebook.com
+0.0.0.0 thefacebook.com
 0.0.0.0 thegioiso.m.facebook.com
 0.0.0.0 thepellcocom.m.facebook.com
 0.0.0.0 thesalvationarmy.m.facebook.com
@@ -5274,6 +5318,7 @@
 0.0.0.0 unl.facebook.com
 0.0.0.0 uno.facebook.com
 0.0.0.0 unswedu.facebook.com
+0.0.0.0 up.facebook.com
 0.0.0.0 update.fbsbx.com
 0.0.0.0 upei.facebook.com
 0.0.0.0 upload-ec2.instagram.com
@@ -5446,7 +5491,9 @@
 0.0.0.0 web-chat-e2ee.instagram.com
 0.0.0.0 web.facebook.com
 0.0.0.0 webdav.facebook.com
+0.0.0.0 webdisk.the--facebook.com
 0.0.0.0 webjar.facebook.com
+0.0.0.0 webmail.the--facebook.com
 0.0.0.0 weddingsonline.facebook.com
 0.0.0.0 wellbeing.instagram.com
 0.0.0.0 wellscoleman.facebook.com
@@ -5822,9 +5869,11 @@
 0.0.0.0 www.c1.instagram.com
 0.0.0.0 www.cdn.fbsbx.com
 0.0.0.0 www.centos.mirror.facebook.net
+0.0.0.0 www.china--facebook.com
 0.0.0.0 www.cinyourrc.facebook.com
 0.0.0.0 www.clientsidetesticici.facebook.com
 0.0.0.0 www.com.tr.0.facebook.com
+0.0.0.0 www.connect.facebook.com
 0.0.0.0 www.connect.facebook.net
 0.0.0.0 www.cpan.mirror.facebook.net
 0.0.0.0 www.dewey-lfs.vip.facebook.com
@@ -5847,9 +5896,11 @@
 0.0.0.0 www.goalmaximesaj.com.0.facebook.com
 0.0.0.0 www.google.0.facebook.com
 0.0.0.0 www.graph.facebook.com
+0.0.0.0 www.gsstore.the--facebook.com
 0.0.0.0 www.ia-tracker.fbsbx.com
 0.0.0.0 www.instagram.com
 0.0.0.0 www.intern.facebook.com
+0.0.0.0 www.jenkins.presto.data.facebook.com
 0.0.0.0 www.login.facebook.com
 0.0.0.0 www.lookaside.fbsbx.com
 0.0.0.0 www.m.0.facebook.com
@@ -5869,6 +5920,7 @@
 0.0.0.0 www.symsrv.vip.facebook.com
 0.0.0.0 www.t.update.fbsbx.com
 0.0.0.0 www.telkomsel.com.0.facebook.com
+0.0.0.0 www.the--facebook.com
 0.0.0.0 www.trunkstable.instagram.com
 0.0.0.0 www.turkcell-imbenim.0.facebook.com
 0.0.0.0 www.turkcelluygulamalar.com.0.facebook.com
@@ -6143,15 +6195,24 @@
 # Blocklist from Blocklists\SocialMedia\instagram.txt
 
 0.0.0.0 api.instagram.com
+0.0.0.0 autodiscover.instagram.com
+0.0.0.0 beta.instagram.com
 0.0.0.0 black.ish.instagram.com
 0.0.0.0 business.instagram.com
 0.0.0.0 cdninstagram.com
+0.0.0.0 copyright--instagram.com
+0.0.0.0 cpanel.mail--instagram.com
+0.0.0.0 cpanel.security--instagram.com
+0.0.0.0 cpcalendars.security--instagram.com
+0.0.0.0 cpcontacts.security--instagram.com
 0.0.0.0 edge-chat.instagram.com
 0.0.0.0 edge-mqtt-fallback.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt.facebook.com is breaking facebook groups and posts and messenger
+0.0.0.0 engineering.instagram.com
 0.0.0.0 gateway.instagram.com
 0.0.0.0 graph.instagram.com
+0.0.0.0 graphql.instagram.com
 0.0.0.0 help.instagram.com
 0.0.0.0 i.instagram.com
 0.0.0.0 instagram-shv-01-ams2.fbcdn.net
@@ -6210,10 +6271,19 @@
 0.0.0.0 instagram.fpoz6-1.fna.fbcdn.net
 0.0.0.0 instagramstatic-a.akamaihd.net
 0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
+0.0.0.0 intern.instagram.com
 0.0.0.0 l.instagram.com
+0.0.0.0 latest.instagram.com
 0.0.0.0 logger.instagram.com
+0.0.0.0 m.instagram.com
+0.0.0.0 mail--instagram.com
+0.0.0.0 mail.mail--instagram.com
+0.0.0.0 mail.security--instagram.com
+0.0.0.0 maps.instagram.com
 0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 partners.business.instagram.com
 0.0.0.0 platform.instagram.com
+0.0.0.0 prod.instagram.com
 0.0.0.0 scontent-dus1-1.cdninstagram.com
 0.0.0.0 scontent-fra3-1.cdninstagram.com
 0.0.0.0 scontent-fra3-1.xx.fbcdn.net
@@ -6233,17 +6303,33 @@
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-msp1-1.cdninstagram.com
 0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 secure.instagram.com
+0.0.0.0 secure.latest.instagram.com
+0.0.0.0 security--instagram.com
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 telegraph-ash.instagram.com
+0.0.0.0 trunkstable.instagram.com
+0.0.0.0 unknownjapan.instagram.com
+0.0.0.0 upload.instagram.com
+0.0.0.0 webdisk.mail--instagram.com
+0.0.0.0 webdisk.security--instagram.com
+0.0.0.0 webmail.mail--instagram.com
+0.0.0.0 webmail.security--instagram.com
 0.0.0.0 white.ish.instagram.com
+0.0.0.0 www.copyright--instagram.com
+0.0.0.0 www.engineering.instagram.com
 0.0.0.0 www.instagram.com
+0.0.0.0 www.mail--instagram.com
+0.0.0.0 www.security--instagram.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
 
 # Blocklist from Blocklists\SocialMedia\pinterest.txt
 
+# entries added with sublist3r
 0.0.0.0 about.pinterest.com
 0.0.0.0 accounts-oauth.pinterest.com
 0.0.0.0 accounts.pinterest.com
+0.0.0.0 adminapp.pinterest.com
 0.0.0.0 ads-latest.pinterest.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 amp.pinterest.com
@@ -6254,6 +6340,7 @@
 0.0.0.0 app.pinterest.com
 0.0.0.0 apps.pinterest.com
 0.0.0.0 ar.pinterest.com
+0.0.0.0 asset.pinterest.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 au.pinterest.com
 0.0.0.0 blog.pinterest.com
@@ -6527,6 +6614,7 @@
 0.0.0.0 de.pinterest.com
 0.0.0.0 dev.pinterest.com
 0.0.0.0 developer.pinterest.com
+0.0.0.0 developers-latest.pinterest.com
 0.0.0.0 developers.pinterest.com
 0.0.0.0 dk.pinterest.com
 0.0.0.0 downloads.pinterest.com
@@ -6611,6 +6699,7 @@
 0.0.0.0 o8.email.pinterest.com
 0.0.0.0 o9.email.pinterest.com
 0.0.0.0 origin.pinterest.com
+0.0.0.0 origin.sub.pinterest.com
 0.0.0.0 outbound-116-139.usw2.aws.inspire.pinterest.com
 0.0.0.0 outbound-118-117.usw2.aws.post.pinterest.com
 0.0.0.0 outbound-132-231.usw2.aws.sherlock.pinterest.com
@@ -6644,11 +6733,13 @@
 0.0.0.0 pinfluencers.pinterest.com
 0.0.0.0 pinimg.com
 0.0.0.0 pinterest.com
+0.0.0.0 pinterest.help.pinterest.com
 0.0.0.0 pl.pinterest.com
 0.0.0.0 policy.pinterest.com
 0.0.0.0 post.pinterest.com
 0.0.0.0 pt.pinterest.com
 0.0.0.0 r.pinterest.com
+0.0.0.0 realtime.pinterest.com
 0.0.0.0 ro.pinterest.com
 0.0.0.0 ru.pinterest.com
 0.0.0.0 s-media-cache-ak0.pinimg.com
@@ -6657,6 +6748,7 @@
 0.0.0.0 se.pinterest.com
 0.0.0.0 sk.pinterest.com
 0.0.0.0 staging-commerce.pinterest.com
+0.0.0.0 sub.pinterest.com
 0.0.0.0 support.pinterest.com
 0.0.0.0 testing.pinterest.com
 0.0.0.0 tr.pinterest.com
@@ -6664,12 +6756,14 @@
 0.0.0.0 uk.pinterest.com
 0.0.0.0 v.pinimg.com.gslb.pinterest.com
 0.0.0.0 widgets.pinterest.com
+0.0.0.0 www.developers-latest.pinterest.com
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
 0.0.0.0 za.pinterest.com
 
 # Blocklist from Blocklists\SocialMedia\reddit.txt
 
+# entries added with sublist3r
 0.0.0.0 0-6.reddit.com
 0.0.0.0 0-a.reddit.com
 0.0.0.0 0-g.reddit.com
@@ -7321,7 +7415,9 @@
 0.0.0.0 acy.reddit.com
 0.0.0.0 ad5.reddit.com
 0.0.0.0 ad8.reddit.com
+0.0.0.0 addons.reddit.com
 0.0.0.0 adi.reddit.com
+0.0.0.0 ads-api.reddit.com
 0.0.0.0 akf.reddit.com
 0.0.0.0 akr.reddit.com
 0.0.0.0 akt.reddit.com
@@ -7535,6 +7631,7 @@
 0.0.0.0 buq.reddit.com
 0.0.0.0 burkinafaso.reddit.com
 0.0.0.0 burundi.reddit.com
+0.0.0.0 business.reddit.com
 0.0.0.0 bv4.reddit.com
 0.0.0.0 bv5.reddit.com
 0.0.0.0 bvc.reddit.com
@@ -8234,6 +8331,7 @@
 0.0.0.0 guiltypleasuremusic.reddit.com
 0.0.0.0 guineabissau.reddit.com
 0.0.0.0 guyana.reddit.com
+0.0.0.0 h.reddit.com
 0.0.0.0 haydenpanettiere.reddit.com
 0.0.0.0 hayleywilliams.reddit.com
 0.0.0.0 he.reddit.com
@@ -8507,6 +8605,7 @@
 0.0.0.0 patrickthepetshark.reddit.com
 0.0.0.0 pay.reddit.com
 0.0.0.0 pennstateuniversity.reddit.com
+0.0.0.0 pixel.reddit.com
 0.0.0.0 playfulsideabox.reddit.com
 0.0.0.0 playstationnow.reddit.com
 0.0.0.0 playstationplus.reddit.com
@@ -8598,6 +8697,7 @@
 0.0.0.0 tipofmytongue.reddit.com
 0.0.0.0 tldr.reddit.com
 0.0.0.0 tls-test-1.reddit.com
+0.0.0.0 tls-test-2.reddit.com
 0.0.0.0 to.reddit.com
 0.0.0.0 togo.reddit.com
 0.0.0.0 told.reddit.com
@@ -8624,6 +8724,7 @@
 0.0.0.0 vfa-staging.redd.it
 0.0.0.0 vfa.redd.it
 0.0.0.0 vim.reddit.com
+0.0.0.0 vip.reddit.com
 0.0.0.0 vitatv.reddit.com
 0.0.0.0 vl.reddit.com
 0.0.0.0 vmo.redd.it
@@ -8646,14 +8747,19 @@
 0.0.0.0 wsucougars.reddit.com
 0.0.0.0 wu.reddit.com
 0.0.0.0 wwsw.reddit.com
+0.0.0.0 www--reddit.com
+0.0.0.0 www.business.reddit.com
 0.0.0.0 www.ca.reddit.com
 0.0.0.0 www.game-of-thrones.reddit.com
 0.0.0.0 www.gingersnapspictures.pennsylvaniacooking.reddit.com
+0.0.0.0 www.h.reddit.com
 0.0.0.0 www.i.reddit.com
+0.0.0.0 www.m.reddit.com
 0.0.0.0 www.nm.reddit.com
 0.0.0.0 www.panoramatravels.in.cdn.pr-1988.dev.reddit.com
 0.0.0.0 www.redd.it
 0.0.0.0 www.tls-test-1.reddit.com
+0.0.0.0 www.vip.reddit.com
 0.0.0.0 www2.reddit.com
 0.0.0.0 wwww.reddit.com
 0.0.0.0 wy.reddit.com
@@ -8707,6 +8813,7 @@
 
 # Blocklist from Blocklists\SocialMedia\snapchat.txt
 
+# entries added with sublist3r
 0.0.0.0 0.europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 0.gs.bmp.cognac.snapchat.com
 0.0.0.0 0.gs.zrs.cognac.snapchat.com
@@ -9365,8 +9472,10 @@
 0.0.0.0 asia-southeast1-gcp-ineg.api.snapchat.com
 0.0.0.0 asia-southeast1-gcp.api.snapchat.com
 0.0.0.0 asia-southeast1-ping-gcp.api.snapchat.com
+0.0.0.0 asia-southeast1.gs.airtime.cognac.snapchat.com
 0.0.0.0 asia-southeast1.gs.bmt.cognac.snapchat.com
 0.0.0.0 asia-southeast1.gs.catsr.cognac.snapchat.com
+0.0.0.0 ats.snapchat.com
 0.0.0.0 attribution-shadow.snapchat.com
 0.0.0.0 auth.snapchat.com
 0.0.0.0 autolua.snssdk.com
@@ -9421,6 +9530,7 @@
 0.0.0.0 aws.api.snapchat.com
 0.0.0.0 aws.duplex.snapchat.com
 0.0.0.0 aws.gateway.snapchat.com
+0.0.0.0 aws.staging.duplex.snapchat.com
 0.0.0.0 awssg.l.byteoversea.net
 0.0.0.0 b-kds.bytedance.com
 0.0.0.0 b.bytedns.net
@@ -9432,6 +9542,7 @@
 0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 bds.snssdk.com
 0.0.0.0 beta.snappublisher.snapchat.com
+0.0.0.0 betapublish.snapchat.com
 0.0.0.0 bfc-test-dynamic.snssdk.com
 0.0.0.0 bfc-test-gather.snssdk.com
 0.0.0.0 bfc-test-hole.snssdk.com
@@ -9900,11 +10011,13 @@
 0.0.0.0 ci.toutiao.com
 0.0.0.0 cjwallet.snssdk.com
 0.0.0.0 class.snssdk.com
+0.0.0.0 click.email.snapchat.com
 0.0.0.0 click.snapchat.com
 0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 client_monitor.sgsnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 clinent_monitor.isnssdk.com
+0.0.0.0 cloud.email.snapchat.com
 0.0.0.0 clue.toutiao.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 code.byted.org
@@ -9922,6 +10035,7 @@
 0.0.0.0 confluence.8.gs.zrs.cognac.snapchat.com
 0.0.0.0 confluence.gs.zrs.cognac.snapchat.com
 0.0.0.0 connect-api.snapchat.com
+0.0.0.0 connect.snapchat.com
 0.0.0.0 content-insights-revenue.snapchat.com
 0.0.0.0 content-recognition.snapchat.com
 0.0.0.0 coresite-iad-api1.l.byteoversea.net
@@ -10147,6 +10261,7 @@
 0.0.0.0 eu-west1-aws.api.snapchat.com
 0.0.0.0 eu-west1-aws.gateway.snapchat.com
 0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 europe-west2.gs.airtime.cognac.snapchat.com
 0.0.0.0 europe-west2.gs.bmt.cognac.snapchat.com
 0.0.0.0 europe-west2.gs.catsr.cognac.snapchat.com
 0.0.0.0 eva.snssdk.com
@@ -10218,6 +10333,7 @@
 0.0.0.0 game.snssdk.com
 0.0.0.0 games.snapchat.com
 0.0.0.0 gate.snssdk.com
+0.0.0.0 gateway.snapchat.com
 0.0.0.0 gateway066-events.snappublisher.snapchat.com
 0.0.0.0 gateway192.snappublisher.snapchat.com
 0.0.0.0 gateway233antivirus.trial.snappublisher.snapchat.com
@@ -10285,6 +10401,10 @@
 0.0.0.0 grelationship-sg.snssdk.com
 0.0.0.0 groove.snapchat.com
 0.0.0.0 gs-sin-api1.l.byteoversea.net
+0.0.0.0 gs.bmp.cognac.snapchat.com
+0.0.0.0 gs.bmt.cognac.snapchat.com
+0.0.0.0 gs.catsr.cognac.snapchat.com
+0.0.0.0 gs.zrs.cognac.snapchat.com
 0.0.0.0 gsdk.sgsnssdk.com
 0.0.0.0 gsdk.snssdk.com
 0.0.0.0 gss-us1.bytetcdn.com
@@ -10435,6 +10555,7 @@
 0.0.0.0 image-sg.tiktokv.com
 0.0.0.0 image-va.musical.ly
 0.0.0.0 image-va.tiktokv.com
+0.0.0.0 image.email.snapchat.com
 0.0.0.0 image.us.tiktokv.com
 0.0.0.0 imagecodes.snapchat.com
 0.0.0.0 imagex-settings.bytedanceapi.com
@@ -10494,6 +10615,7 @@
 0.0.0.0 internal-lb-all-maliva.bytedns.net
 0.0.0.0 internal-lb-all-mix.bytedns.net
 0.0.0.0 internal-lb-all.bytedns.net
+0.0.0.0 internal.snappublisher.snapchat.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 investor.snapchat.com
 0.0.0.0 io.snssdk.com
@@ -10809,6 +10931,7 @@
 0.0.0.0 luban.snssdk.com.w.kunluncan.com
 0.0.0.0 luckycat-activity-hl.snssdk.com
 0.0.0.0 luckycat-activity-lf.sns
+0.0.0.0 mail.support.snapchat.com
 0.0.0.0 mail2.support.snapchat.com
 0.0.0.0 map.snapchat.com
 0.0.0.0 maps.snapchat.com
@@ -10817,6 +10940,8 @@
 0.0.0.0 messaging.snapchat.com
 0.0.0.0 minis.snapchat.com
 0.0.0.0 ml.snapchat.com
+0.0.0.0 mvm-20240424.snapchat.com
+0.0.0.0 mvm.mvm-20240424.snapchat.com
 0.0.0.0 mvm.snapchat.com
 0.0.0.0 my-lenses-staging.snapchat.com
 0.0.0.0 my-lenses.snapchat.com
@@ -10859,6 +10984,8 @@
 0.0.0.0 pro.snapchat.com
 0.0.0.0 profile-preprod.snapchat.com
 0.0.0.0 profile.snapchat.com
+0.0.0.0 profiles-api-dev.snapchat.com
+0.0.0.0 profiles-api-flex-dev.snapchat.com
 0.0.0.0 profiles-api-search.snapchat.com
 0.0.0.0 profiles-api.snapchat.com
 0.0.0.0 profiles.snapchat.com
@@ -10872,6 +10999,7 @@
 0.0.0.0 s.snapchat.com
 0.0.0.0 s3.snapchat.com
 0.0.0.0 sc-cdn.net
+0.0.0.0 sc-gw-dev.snapchat.com
 0.0.0.0 scan-more.snapchat.com
 0.0.0.0 scan-partners-api.snapchat.com
 0.0.0.0 scan-partners.snapchat.com
@@ -10880,6 +11008,7 @@
 0.0.0.0 search.snapchat.com
 0.0.0.0 server-analytics.snapchat.com
 0.0.0.0 share.snapchat.com
+0.0.0.0 sharing.snapchat.com
 0.0.0.0 shows.snapchat.com
 0.0.0.0 sks.snapchat.com
 0.0.0.0 snap-api.arkoselabs.com
@@ -10909,6 +11038,8 @@
 0.0.0.0 staging-us-east1-aws.api.snapchat.com
 0.0.0.0 staging.app-analytics.snapchat.com
 0.0.0.0 staging.server-analytics.snapchat.com
+0.0.0.0 star.chat.snapchat.com
+0.0.0.0 star.duplex.gateway.snapchat.com
 0.0.0.0 static-payments.snapchat.com
 0.0.0.0 static.snapchat.com
 0.0.0.0 store.snapchat.com
@@ -10925,6 +11056,7 @@
 0.0.0.0 support.lensstudio.snapchat.com
 0.0.0.0 support.snapchat.com
 0.0.0.0 t.snapchat.com
+0.0.0.0 team--snapchat.com
 0.0.0.0 test.snapchat.com
 0.0.0.0 text.snapchat.com
 0.0.0.0 topic-sticker-vending-us-east-1.snapchat.com
@@ -10938,6 +11070,8 @@
 0.0.0.0 trends.snapchat.com
 0.0.0.0 us-central1-gcp-api.sc-gw-dev.snapchat.com
 0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 us-central1.gs.airtime.cognac.snapchat.com
+0.0.0.0 us-central1.gs.bmr.cognac.snapchat.com
 0.0.0.0 us-central1.gs.bmt.cognac.snapchat.com
 0.0.0.0 us-central1.gs.catsr.cognac.snapchat.com
 0.0.0.0 us-east-1-bitmoji.api.snapchat.com
@@ -10957,6 +11091,7 @@
 0.0.0.0 us-east1-aws.gateway.snapchat.com
 0.0.0.0 us-east1-gcp-ineg.api.snapchat.com
 0.0.0.0 us-east1-gcp.api.snapchat.com
+0.0.0.0 us-east1.aws.staging.duplex.snapchat.com
 0.0.0.0 us-east4-gcp-ineg-test.api.snapchat.com
 0.0.0.0 us-east4-gcp-ineg.api.snapchat.com
 0.0.0.0 us-east4-gcp-rerouting-test.api.snapchat.com
@@ -10970,11 +11105,13 @@
 0.0.0.0 us-west2-aws-cf.api.snapchat.com
 0.0.0.0 us-west2-aws-gateway.sc-gw-dev.snapchat.com
 0.0.0.0 us-west2-aws.api.snapchat.com
+0.0.0.0 us-west2.aws.staging.duplex.snapchat.com
 0.0.0.0 usc1-gcp-v61.api.snapchat.com
 0.0.0.0 usc1-gcp-v62.api.snapchat.com
 0.0.0.0 use4-gcp-v4.api.snapchat.com
 0.0.0.0 use4-gcp-v6.api.snapchat.com
 0.0.0.0 v.snapchat.com
+0.0.0.0 view.email.snapchat.com
 0.0.0.0 voisey-api.snapchat.com
 0.0.0.0 vpn.1.gs.zrs.cognac.snapchat.com
 0.0.0.0 vpn.6.gs.zrs.cognac.snapchat.com
@@ -10991,6 +11128,7 @@
 0.0.0.0 whatis.snapchat.com
 0.0.0.0 www.intg.snapchat.com
 0.0.0.0 www.snapchat.com
+0.0.0.0 www.team--snapchat.com
 0.0.0.0 www.web.snapchat.com
 0.0.0.0 zendesk1.snapchat.com
 0.0.0.0 zendesk2.snapchat.com
@@ -10999,6 +11137,7 @@
 
 # Blocklist from Blocklists\SocialMedia\tiktok.txt
 
+# entries added with sublist3r
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
@@ -11085,6 +11224,8 @@
 0.0.0.0 a9.pstatp.com
 0.0.0.0 a9.pstatp.com.cdn.dnsv1.com
 0.0.0.0 a9.pstatp.com.cloud.cdntip.com
+0.0.0.0 abm-client.us.tiktok.com
+0.0.0.0 abm.us.tiktok.com
 0.0.0.0 abn.snssdk.com
 0.0.0.0 abtest-ch-hl.snssdk.com
 0.0.0.0 abtest-ch-hl.snssdk.com.w.kunluncan.com
@@ -11208,6 +11349,7 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tiktok.com.edgekey.net
 0.0.0.0 analytics.us.tiktok.com
+0.0.0.0 apac-marketing.tiktok.com
 0.0.0.0 api-bee-hl.amemv.com
 0.0.0.0 api-bee.amemv.com
 0.0.0.0 api-c.amemv.com
@@ -11670,8 +11812,10 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 business-sg.topbuzz.com
 0.0.0.0 business-sso-i18n.tiktok.com
+0.0.0.0 business-sso.eu.tiktok.com
 0.0.0.0 business-sso.tiktok.com
 0.0.0.0 business-sso.us.tiktok.com
+0.0.0.0 business-suite.tiktok.com
 0.0.0.0 business-tips.tiktok.com
 0.0.0.0 business-useast2a.tiktok.com
 0.0.0.0 business-va.tiktok.com
@@ -11838,6 +11982,7 @@
 0.0.0.0 developer-hl.toutiao.com
 0.0.0.0 developer-sg.byteoversea.com
 0.0.0.0 developer-sg.byteoversea.com.edgesuite.net
+0.0.0.0 developer-sg.tiktok.com
 0.0.0.0 developer-sg.toutiao.com
 0.0.0.0 developer-useast2a.tiktok.com
 0.0.0.0 developer.sgsnssdk.com
@@ -11860,6 +12005,7 @@
 0.0.0.0 dig.byteoversea.com
 0.0.0.0 dig.us.tiktokv.com
 0.0.0.0 direct.musical.ly
+0.0.0.0 discover.tiktok.com
 0.0.0.0 dispatch.byteoversea.com
 0.0.0.0 distribution.snssdk.com
 0.0.0.0 dm-hl.toutiao.com
@@ -11945,6 +12091,7 @@
 0.0.0.0 drop-s-toutiao-misc-lq.snssdk.com
 0.0.0.0 drop-s-toutiao-misc.snssdk.com
 0.0.0.0 drop-s-toutiao.snssdk.com
+0.0.0.0 drs.gw.us.tiktok.com
 0.0.0.0 drt-lhr-v1.l.byteoversea.net
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
 0.0.0.0 dsa01.snssdk.com
@@ -11962,6 +12109,7 @@
 0.0.0.0 dzsu313agxr9l.cloudfront.net
 0.0.0.0 e.l.bytedns.net
 0.0.0.0 e.snssdk.com
+0.0.0.0 e.tiktok.com
 0.0.0.0 e.toutiao.com
 0.0.0.0 eagleye.snssdk.com
 0.0.0.0 eagleye.snssdk.com.w.kunluncan.com
@@ -11995,6 +12143,7 @@
 0.0.0.0 effecthouse.tiktok.com
 0.0.0.0 effecthouse.us.tiktok.com
 0.0.0.0 effects.tiktok.com
+0.0.0.0 egress.gw.us.tiktok.com
 0.0.0.0 elb-babe-934876860.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 elb-for-cdn-1922253052.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 elb-for-front-1752188976.us-east-1.elb.amazonaws.com
@@ -12019,7 +12168,9 @@
 0.0.0.0 equinix-sjc-v1.l.byteoversea.net
 0.0.0.0 equinix-sjc-v2.l.byteoversea.net
 0.0.0.0 et.snssdk.com
+0.0.0.0 eu-marketing.tiktok.com
 0.0.0.0 eu.safety-enforcement.tiktok.com
+0.0.0.0 eu.tiktok.com
 0.0.0.0 eva.snssdk.com
 0.0.0.0 experiment.tiktok.com
 0.0.0.0 extlog.snssdk.com
@@ -12089,6 +12240,7 @@
 0.0.0.0 g.l.bytedns.net
 0.0.0.0 gababhhcehc.temp.p23.tc.cdntip.com
 0.0.0.0 game.snssdk.com
+0.0.0.0 gaming.tiktok.com
 0.0.0.0 gate.snssdk.com
 0.0.0.0 gecko-cold.snssdk.com
 0.0.0.0 gecko-hl.snssdk.com
@@ -12311,6 +12463,7 @@
 0.0.0.0 imagex.ap-singapore-1.bytedanceapi.com
 0.0.0.0 imagex.bytedanceapi.com
 0.0.0.0 imagex.us-east-1.bytedanceapi.com
+0.0.0.0 imap.tiktok.com
 0.0.0.0 imapi-16-useast1a.musical.ly
 0.0.0.0 imapi-16-useast1a.musical.ly.edgesuite.net
 0.0.0.0 imapi-16-useast2a.musical.ly
@@ -12345,6 +12498,7 @@
 0.0.0.0 in2.byteoversea.com
 0.0.0.0 index.toutiao.com
 0.0.0.0 inf-portal-boe.byted.org
+0.0.0.0 info.tiktok.com
 0.0.0.0 info.trending.tiktok.com
 0.0.0.0 infobip.service.tiktok.com
 0.0.0.0 insurance.snssdk.com
@@ -12442,6 +12596,7 @@
 0.0.0.0 kds-useast2a.byteoversea.com
 0.0.0.0 kds.bytedance.com
 0.0.0.0 ken.snssdk.com
+0.0.0.0 kr-marketing.tiktok.com
 0.0.0.0 krb5auth.byted.org
 0.0.0.0 krb5auth1.byted.org
 0.0.0.0 krb5auth2.byted.org
@@ -12861,6 +13016,7 @@
 0.0.0.0 m.zjurl.cn
 0.0.0.0 m1-16.tiktok.com
 0.0.0.0 m2-16.tiktok.com
+0.0.0.0 mail.tiktok.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maliva-mcs.byteoversea.com.edgesuite.net
 0.0.0.0 maliva-normal-lb-useast2a.byteoversea.net
@@ -12876,6 +13032,8 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mcs.us.tiktok.com
+0.0.0.0 mdg-preprod.us.tiktok.com
+0.0.0.0 mdg.us.tiktok.com
 0.0.0.0 media.tiktok.com
 0.0.0.0 mediamatch.tiktok.com
 0.0.0.0 mercury-sdk.snssdk.com
@@ -12974,6 +13132,8 @@
 0.0.0.0 mssdk16-platform-useast5.us.tiktokv.com
 0.0.0.0 mssdk19-normal-useast1a.tiktokv.com
 0.0.0.0 mtg-bkk-v1.l.byteoversea.net
+0.0.0.0 mtls-fcdn.rtc-gw.tiktok.com
+0.0.0.0 mtls-row.rtc-gw.tiktok.com
 0.0.0.0 mu.isnssdk.com
 0.0.0.0 mue.toutiao.com
 0.0.0.0 mue.toutiao.com.w.cdngslb.com
@@ -13857,6 +14017,8 @@
 0.0.0.0 rtapplog.snssdk.com.w.kunluncan.com
 0.0.0.0 rtc-boe.byted.org
 0.0.0.0 rtc.bytedanceapi.com
+0.0.0.0 rtc.gw.forward.pvt.tiktok.com
+0.0.0.0 rtc.gw.forward.test.tiktok.com
 0.0.0.0 rtlog-va.tiktokv.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
@@ -13964,6 +14126,7 @@
 0.0.0.0 sdfp-va.tiktokv.com.edgesuite.net
 0.0.0.0 sdfp.snssdk.com
 0.0.0.0 sdfp.snssdk.com.w.kunluncan.com
+0.0.0.0 sea-marketing.tiktok.com
 0.0.0.0 search-bj.snssdk.com
 0.0.0.0 search-hl.amemv.com
 0.0.0.0 search-hl.amemv.com.w.cdngslb.com
@@ -14291,6 +14454,7 @@
 0.0.0.0 smr-sg.byteoversea.com.edgekey.net
 0.0.0.0 smr.snssdk.com
 0.0.0.0 sms-callback.byteoversea.com
+0.0.0.0 smtp.tiktok.com
 0.0.0.0 sniper-boe.byted.org
 0.0.0.0 snssdk.com
 0.0.0.0 snssdk.com.bdgslb.com
@@ -14659,6 +14823,7 @@
 0.0.0.0 track.toutiao.com
 0.0.0.0 tracking.infobip.account.tiktok.com
 0.0.0.0 tracking.infobip.service.tiktok.com
+0.0.0.0 trending.tiktok.com
 0.0.0.0 trends.tiktok.com
 0.0.0.0 trustcenter.tiktok.com
 0.0.0.0 tsearch-hl.snssdk.com
@@ -15238,6 +15403,7 @@
 0.0.0.0 wd.snssdk.com
 0.0.0.0 wd3.bytecdn.cn
 0.0.0.0 wd3.pstatp.com
+0.0.0.0 wdg.us.tiktok.com
 0.0.0.0 web-i18n.tiktok.com
 0.0.0.0 web-phx.tiktok.com
 0.0.0.0 web-sg-test.tiktok.com
@@ -15417,6 +15583,7 @@
 0.0.0.0 weiliicimg1.pstatp.com
 0.0.0.0 welcome.toutiao.com
 0.0.0.0 wenda.toutiao.com
+0.0.0.0 wfa.tiktok.com
 0.0.0.0 whatsnext.tiktok.com
 0.0.0.0 wildcard.musical.ly.edgekey.net
 0.0.0.0 wj.byteoversea.com
@@ -15426,6 +15593,7 @@
 0.0.0.0 ws-hl.l.bytedns.net
 0.0.0.0 ws.byteoversea.net
 0.0.0.0 ws.l.bytedns.net
+0.0.0.0 www--tiktok.com
 0.0.0.0 www-boe.tiktok.com
 0.0.0.0 www-useast1a.tiktok.com
 0.0.0.0 www-useast2a.tiktok.com
@@ -15456,6 +15624,7 @@
 0.0.0.0 www.tiktokv.com.edgesuite.net
 0.0.0.0 www.toutiao.com
 0.0.0.0 www.toutiao.com.bytedns.net
+0.0.0.0 www.trending.tiktok.com
 0.0.0.0 www.worldfcdn.com
 0.0.0.0 www.wshifen.com
 0.0.0.0 www.xzcs3zlph.com
@@ -15543,11 +15712,72 @@
 
 # Blocklist from Blocklists\SocialMedia\tumblr.txt
 
+# entries added with sublist3r
+0.0.0.0 46.media.tumblr.com
 0.0.0.0 66.media.tumblr.com
 0.0.0.0 68.media.tumblr.com
+0.0.0.0 69.media.tumblr.com
+0.0.0.0 a.tumblr.com
 0.0.0.0 action.tumblr.com
+0.0.0.0 advertise.tumblr.com
+0.0.0.0 analytics.tumblr.com
+0.0.0.0 api-http2.tumblr.com
+0.0.0.0 api.login.tumblr.com
+0.0.0.0 api.tumblr.com
+0.0.0.0 assets.embed.tumblr.com
+0.0.0.0 assets.tumblr.com
+0.0.0.0 at.tumblr.com
+0.0.0.0 bandit--6tumblr.com
+0.0.0.0 embed.tumblr.com
+0.0.0.0 extra.tumblr.com
+0.0.0.0 global-pop.tumblr.com
+0.0.0.0 guce.tumblr.com
+0.0.0.0 help.tumblr.com
+0.0.0.0 hubspot.tumblr.com
+0.0.0.0 login.tumblr.com
+0.0.0.0 lovegirls3----tumblr.com
+0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 media.tumblr.com
+0.0.0.0 mx.tumblr.com
+0.0.0.0 oidc.tumblr.com
+0.0.0.0 origin.assets.tumblr.com
+0.0.0.0 origin.platform.tumblr.com
+0.0.0.0 origin.tumblr.com
+0.0.0.0 payment.tumblr.com
+0.0.0.0 platform.tumblr.com
+0.0.0.0 px.srvcs.tumblr.com
+0.0.0.0 secure.assets.tumblr.com
+0.0.0.0 secure.static.tumblr.com
+0.0.0.0 secure.tumblr.com
+0.0.0.0 shop.tumblr.com
+0.0.0.0 srvcs.tumblr.com
+0.0.0.0 stage.api.login.tumblr.com
+0.0.0.0 stage.guce.tumblr.com
+0.0.0.0 stage.login.tumblr.com
+0.0.0.0 stage.oidc.tumblr.com
+0.0.0.0 static.tumblr.com
+0.0.0.0 test-payment.tumblr.com
+0.0.0.0 tm319.tumblr.com
+0.0.0.0 trunk.api.login.tumblr.com
+0.0.0.0 trunk.guce.tumblr.com
+0.0.0.0 trunk.login.tumblr.com
+0.0.0.0 trunk.oidc.tumblr.com
+0.0.0.0 tspmagic.tumblr.com
 0.0.0.0 tumblr.com
+0.0.0.0 v.tumblr.com
+0.0.0.0 ve.media.tumblr.com
+0.0.0.0 vf.media.tumblr.com
+0.0.0.0 vt.tumblr.com
+0.0.0.0 vtt.tumblr.com
+0.0.0.0 www-http2.tumblr.com
+0.0.0.0 www.advertise.tumblr.com
+0.0.0.0 www.at.tumblr.com
+0.0.0.0 www.help.tumblr.com
+0.0.0.0 www.payment.tumblr.com
+0.0.0.0 www.secure.tumblr.com
+0.0.0.0 www.shop.tumblr.com
+0.0.0.0 www.test-payment.tumblr.com
+0.0.0.0 www.tspmagic.tumblr.com
 0.0.0.0 www.tumblr.com
 
 # Blocklist from Blocklists\SocialMedia\twitter.txt

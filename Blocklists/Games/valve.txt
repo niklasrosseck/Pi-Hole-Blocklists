@@ -16,3 +16,11 @@
 0.0.0.0 teamfortress.com
 0.0.0.0 tf2.com
 0.0.0.0 tf2maps.net
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 donga--valve.com
+0.0.0.0 teji--valve.com
+0.0.0.0 www.teji--valve.com
+0.0.0.0 tools.teji--valve.com
+0.0.0.0 www.valve.com

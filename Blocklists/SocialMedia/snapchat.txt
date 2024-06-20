@@ -3111,3 +3111,38 @@
 0.0.0.0 snapkit.co
 0.0.0.0 snapads.com
 0.0.0.0 impala-media-production.s3.amazonaws.com
+
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 ats.snapchat.com
+0.0.0.0 betapublish.snapchat.com
+0.0.0.0 star.chat.snapchat.com
+0.0.0.0 asia-southeast1.gs.airtime.cognac.snapchat.com
+0.0.0.0 europe-west2.gs.airtime.cognac.snapchat.com
+0.0.0.0 us-central1.gs.airtime.cognac.snapchat.com
+0.0.0.0 gs.bmp.cognac.snapchat.com
+0.0.0.0 us-central1.gs.bmr.cognac.snapchat.com
+0.0.0.0 gs.bmt.cognac.snapchat.com
+0.0.0.0 gs.catsr.cognac.snapchat.com
+0.0.0.0 gs.zrs.cognac.snapchat.com
+0.0.0.0 connect.snapchat.com
+0.0.0.0 aws.staging.duplex.snapchat.com
+0.0.0.0 us-east1.aws.staging.duplex.snapchat.com
+0.0.0.0 us-west2.aws.staging.duplex.snapchat.com
+0.0.0.0 click.email.snapchat.com
+0.0.0.0 cloud.email.snapchat.com
+0.0.0.0 image.email.snapchat.com
+0.0.0.0 view.email.snapchat.com
+0.0.0.0 gateway.snapchat.com
+0.0.0.0 star.duplex.gateway.snapchat.com
+0.0.0.0 mvm-20240424.snapchat.com
+0.0.0.0 mvm.mvm-20240424.snapchat.com
+0.0.0.0 profiles-api-dev.snapchat.com
+0.0.0.0 profiles-api-flex-dev.snapchat.com
+0.0.0.0 sc-gw-dev.snapchat.com
+0.0.0.0 sharing.snapchat.com
+0.0.0.0 internal.snappublisher.snapchat.com
+0.0.0.0 mail.support.snapchat.com
+0.0.0.0 team--snapchat.com
+0.0.0.0 www.team--snapchat.com

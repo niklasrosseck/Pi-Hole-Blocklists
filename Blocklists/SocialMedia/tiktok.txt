@@ -4639,3 +4639,37 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 api2-21-h2.musical.ly
 0.0.0.0 musically.ly
+
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 apac-marketing.tiktok.com
+0.0.0.0 business-suite.tiktok.com
+0.0.0.0 developer-sg.tiktok.com
+0.0.0.0 discover.tiktok.com
+0.0.0.0 e.tiktok.com
+0.0.0.0 eu.tiktok.com
+0.0.0.0 business-sso.eu.tiktok.com
+0.0.0.0 eu-marketing.tiktok.com
+0.0.0.0 gaming.tiktok.com
+0.0.0.0 imap.tiktok.com
+0.0.0.0 info.tiktok.com
+0.0.0.0 kr-marketing.tiktok.com
+0.0.0.0 mail.tiktok.com
+0.0.0.0 rtc.gw.forward.pvt.tiktok.com
+0.0.0.0 mtls-fcdn.rtc-gw.tiktok.com
+0.0.0.0 mtls-row.rtc-gw.tiktok.com
+0.0.0.0 sea-marketing.tiktok.com
+0.0.0.0 smtp.tiktok.com
+0.0.0.0 rtc.gw.forward.test.tiktok.com
+0.0.0.0 trending.tiktok.com
+0.0.0.0 www.trending.tiktok.com
+0.0.0.0 abm.us.tiktok.com
+0.0.0.0 abm-client.us.tiktok.com
+0.0.0.0 drs.gw.us.tiktok.com
+0.0.0.0 egress.gw.us.tiktok.com
+0.0.0.0 mdg.us.tiktok.com
+0.0.0.0 mdg-preprod.us.tiktok.com
+0.0.0.0 wdg.us.tiktok.com
+0.0.0.0 wfa.tiktok.com
+0.0.0.0 www--tiktok.com

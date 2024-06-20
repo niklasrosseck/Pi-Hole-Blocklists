@@ -349,3 +349,16 @@
 0.0.0.0 ore-ui.mojang.com
 0.0.0.0 vpn.mojang.com
 0.0.0.0 auth.mojang.com
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 aks-geneva-int.mojang.com
+0.0.0.0 api-2.mojang.com
+0.0.0.0 api-staging-2.mojang.com
+0.0.0.0 geneva-prod.mojang.com
+0.0.0.0 launcher2.mojang.com
+0.0.0.0 minecon.mojang.com
+0.0.0.0 piston-data-staging.mojang.com
+0.0.0.0 www.prepaid.mojang.com
+0.0.0.0 www.prepaid-int.mojang.com
+0.0.0.0 sessionserver-azure.mojang.com

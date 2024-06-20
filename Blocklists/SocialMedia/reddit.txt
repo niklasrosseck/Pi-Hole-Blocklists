@@ -2038,3 +2038,18 @@
 0.0.0.0 ingest-staging.redd.it
 0.0.0.0 ingest.redd.it
 0.0.0.0 imo.redd.it
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 addons.reddit.com
+0.0.0.0 ads-api.reddit.com
+0.0.0.0 business.reddit.com
+0.0.0.0 www.business.reddit.com
+0.0.0.0 h.reddit.com
+0.0.0.0 www.h.reddit.com
+0.0.0.0 www.m.reddit.com
+0.0.0.0 pixel.reddit.com
+0.0.0.0 tls-test-2.reddit.com
+0.0.0.0 vip.reddit.com
+0.0.0.0 www.vip.reddit.com
+0.0.0.0 www--reddit.com
