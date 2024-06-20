@@ -2053,3 +2053,12 @@
 0.0.0.0 vip.reddit.com
 0.0.0.0 www.vip.reddit.com
 0.0.0.0 www--reddit.com
+
+
+ # Entries added with Sublist3r 
+
+0.0.0.0 www.redditinc.com
+0.0.0.0 connect.redditinc.com
+0.0.0.0 craft-staging.redditinc.com
+0.0.0.0 investor.redditinc.com
+0.0.0.0 studio.redditinc.com
