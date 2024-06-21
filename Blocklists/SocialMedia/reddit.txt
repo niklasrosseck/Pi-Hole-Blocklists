@@ -2,6 +2,9 @@
 # Created by combining different currently existing blocklists and 
 # adding self-found domains
 
+# Test with Regex Expressions
+(\.|^)reddit\.com$
+
 # Entries from https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-reddit.txt 
 
 0.0.0.0 reddit.com
