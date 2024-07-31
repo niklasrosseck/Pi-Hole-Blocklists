@@ -3,8 +3,12 @@
 This project aims to provide effective blocklists for a variety of applications. To make the blocklists as
 effective as possible they are combinations of different publicly available blocklist and self found domains.
 The self found domains where found by using Sublist3r. Every used blocklist is linked in the .txt file.
-To avoid duplicate entries new entries are first put into the test.txt file and then the check.py normalizes the
-entries and only adds new entries to the specified blocklist file.
+To avoid duplicate entries new entries are first put into the test.txt file and then the automate_check.py normalizes the
+entries and only adds new entries to the specified blocklist file. For using the Sublist3r script execute:
+```python automation.py domain.com file.txt```
+This script takes the input `domain.com` and checks for every subdomain with Sublist3r. All found domains are placed into a temporary file. 
+Then this temporary file is compared with the inputted `file.txt` and every new domain is added to this file. Should the file not exist it is 
+created. 
 
 # Combine Scripts
 
@@ -14,4 +18,4 @@ combine all blocklists together and also combine subdirectories. The standard is
 # Including in Pi Hole
 
 To use these blocklists in your Pi Hole you need to add them to your adlist. You can do this in the
-web interface of Pi Hole.
+web interface of Pi Hole. Just add the raw github link of a blocklist under Group Management/Adlists. 
