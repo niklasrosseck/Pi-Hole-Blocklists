@@ -72,7 +72,6 @@ Then input the following:
 interface=wlan0
 # Name of the Access Point
 ssid=YOURSSID
-#ignore_ssid_broadcast=0
 wpa=2
 # Passphrase
 wpa_passphrase=YOURPASSPHRASE
@@ -156,5 +155,13 @@ We are now finished and can reboot.
 sudo reboot
 ```
 After the reboot you should see the SSID of your hotspot and it should be working as intented. 
-Now that we have a working hotspot we can add PiHole.
+Now that we have a working hotspot we can add PiHole. If you are using a desktop environment it might not be working after a reboot, because the light display manager failed.
+To fix this you can adjust the configuration for the light display manager.
+```bash
+sudo nano /etc/lightdm/lightdm.conf
+```
+Search for the uncommentated `greeter-session` and replace it with:
+```bash
+greeter-session=lightdm-gtk-greeter
+```
 # PiHole
