@@ -5,7 +5,9 @@ effective as possible they are combinations of different publicly available bloc
 The self found domains where found by using Sublist3r. Every used blocklist is linked in the .txt file.
 To avoid duplicate entries new entries are first put into the test.txt file and then the automate_check.py normalizes the
 entries and only adds new entries to the specified blocklist file. For using the Sublist3r script execute:
-```python automation.py domain.com file.txt```
+```bash
+python automation.py domain.com file.txt
+```
 This script takes the input `domain.com` and checks for every subdomain with Sublist3r. All found domains are placed into a temporary file. 
 Then this temporary file is compared with the inputted `file.txt` and every new domain is added to this file. Should the file not exist it is 
 created. 
