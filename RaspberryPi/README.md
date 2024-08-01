@@ -169,9 +169,9 @@ For adding PiHole we can download it from PiHole directly with:
 ```bash
 curl -sSL https://install.pi-hole.net | bash
 ```
-This will run for a bit and then open an installation wizard. 
+This will run for a bit and then open an installation wizard. <br/>
 ![](https://github.com/niklasrosseck/Pi-Hole-Blocklists/blob/main/RaspberryPi/Images/first_step.png)
-Just press ENTER(OK) and proceed.
-The second screen will tell you that PiHole is free, but you can support by donating. Here everyone can decide for themselves if they wanna donate.
+Just press ENTER(OK) and proceed. <br/>
+The second screen will tell you that PiHole is free, but you can support by donating. Here everyone can decide for themselves if they wanna donate. <br/>
 [![No G](https://raw.githubusercontent.com/niklasrosseck/Pi-Hole-Blocklists/main/RaspberryPi/Images/pihole_second step.png)](https://github.com/niklasrosseck/Pi-Hole-Blocklists)
 Press ENTER(OK) to proceed. 
