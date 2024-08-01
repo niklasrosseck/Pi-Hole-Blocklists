@@ -1,3 +1,0 @@
-# Pi Hole Blocklist for Twitter
-# Created by combining different currently existing blocklists and 
-# adding self-found domains
