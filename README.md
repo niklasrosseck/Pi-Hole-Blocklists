@@ -24,3 +24,11 @@ web interface of Pi Hole. Just add the raw github link of a blocklist under Adli
 <br/>
 <br/>
 ![](https://github.com/niklasrosseck/Pi-Hole-Blocklists/blob/main/RaspberryPi/Images/pihole_number16.png)
+
+# Raspberry Pi Setup
+
+The documentation for the Raspberry Pi can be found in RaspberryPi/README.md
+
+# Website
+
+The code for the website and the documentation can be found in the [Gitlab Project](https://git.imp.fu-berlin.de/niklar01/masterwebsite).
