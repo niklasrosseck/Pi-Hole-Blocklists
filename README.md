@@ -20,4 +20,8 @@ combine all blocklists together and also combine subdirectories. The standard is
 # Including in Pi Hole
 
 To use these blocklists in your Pi Hole you need to add them to your adlist. You can do this in the
-web interface of Pi Hole. Just add the raw github link of a blocklist under Group Management/Adlists. 
+web interface of Pi Hole. Just add the raw github link of a blocklist under Adlists. 
+<pre>
+  
+</pre>
+![](https://github.com/niklasrosseck/Pi-Hole-Blocklists/blob/main/RaspberryPi/Images/pihole_number16.png)
